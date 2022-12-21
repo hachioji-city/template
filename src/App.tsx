@@ -26,7 +26,7 @@ const bounds: [number, number][] = [
 export const App = () => (
   <>
     <Helmet>
-      <title>{config.shikuchoson}ハザードマップ</title>
+      <title>{config.shikuchoson}デモ</title>
     </Helmet>
 
     <MapContainer
